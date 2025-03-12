@@ -1,0 +1,76 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1686795222382" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1098" />
+    <option name="newTranslationDialogY" value="604" />
+    <histories>
+      <item value="Closing a &lt;tt&gt;ByteArrayOutputStream&lt;tt&gt; has no effect. The methods in this class can be called after the stream has been closed without generating an &lt;tt&gt;IOException&lt;tt&gt;." />
+      <item value="proforma" />
+      <item value="proform" />
+      <item value="synchronized" />
+      <item value="计算的税额" />
+      <item value="Returns the negation of the argument, throwing an exception if the result overflows a {@code long}. @param a the value to negate @return the result @throws ArithmeticException if the result overflows a long @since 1.8" />
+      <item value="Precision" />
+      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} unless both neighbors are equidistant, in which case round up. Behaves as for {@code ROUND_UP} if the discarded fraction is &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note that this is the rounding mode that most of us were taught in grade school." />
+      <item value="Undeclared Throwable Exception" />
+      <item value="statement" />
+      <item value="External" />
+      <item value="calced" />
+      <item value="Ratio" />
+      <item value="GENERAL" />
+      <item value="判断" />
+      <item value="extracted" />
+      <item value="Invalid" />
+      <item value="reamin" />
+      <item value="Items" />
+      <item value="process" />
+      <item value="render" />
+      <item value="Certify" />
+      <item value="Fetch Certify Result Component Impl" />
+      <item value="Constants" />
+      <item value="is Success" />
+      <item value="Render" />
+      <item value="advance receivable" />
+      <item value="render Invoice" />
+      <item value="er" />
+      <item value="econ" />
+      <item value="erecon" />
+      <item value="不一致" />
+      <item value="assemble" />
+      <item value="invoke" />
+      <item value="NotAMockException: Argument passed to when() is not a mock!" />
+      <item value="MANUAL" />
+      <item value="suffix" />
+      <item value="Partner" />
+      <item value="平台" />
+      <item value="org.mockito.exceptions.misusing.UnnecessaryStubbingException: Unnecessary stubbings detected in test class: ApplyInvoiceAmountWriteOffFacadeTest Clean &amp; maintainable test code requires zero unnecessary code. Following stubbings are unnecessary (click to navigate to relevant line of code): 1. -&gt; at com.alipay.gfsettleprod.invoice.ApplyInvoiceAmountWriteOffFacadeTest.applyInvoiceAmountWriteOff(ApplyInvoiceAmountWriteOffFacadeTest.java:138) 2. -&gt; at com.alipay.gfsettleprod.invoice.ApplyInvoiceAmountWriteOffFacadeTest.applyInvoiceAmountWriteOff(ApplyInvoiceAmountWriteOffFacadeTest.java:146) Please remove unnecessary stubbings or use 'lenient' strictness. More info: javadoc for UnnecessaryStubbingException class." />
+      <item value="injection" />
+      <item value="Compares this {@code BigDecimal} with the specified {@code BigDecimal}. Two {@code BigDecimal} objects that are equal in value but have a different scale (like 2.0 and 2.00) are considered equal by this method. This method is provided in preference to individual methods for each of the six boolean comparison operators ({@literal &lt;}, ==, {@literal &gt;}, {@literal &gt;=}, !=, {@literal &lt;=}). The suggested idiom for performing these comparisons is: {@code (x.compareTo(y)} &amp;lt;&lt;i&gt;op&lt;i&gt;&amp;gt; {@code 0)}, where &amp;lt;&lt;i&gt;op&lt;i&gt;&amp;gt; is one of the six comparison operators. @param val {@code BigDecimal} to which this {@code BigDecimal} is to be compared. @return -1, 0, or 1 as this {@code BigDecimal} is numerically less than, equal to, or greater than {@code val}." />
+      <item value="Object argument that is equal to the given value. &lt;p&gt; See examples in javadoc for {@link ArgumentMatchers} class &lt;p&gt; @param value the given value. @return &lt;code&gt;null&lt;code&gt;." />
+      <item value="Reflect Util" />
+      <item value="Tests if this string starts with the specified prefix. @param prefix the prefix. @return {@code true} if the character sequence represented by the argument is a prefix of the character sequence represented by this string; {@code false} otherwise. Note also that {@code true} will be returned if the argument is an empty string or is equal to this {@code String} object as determined by the {@link equals(Object)} method." />
+      <item value="Initializes objects annotated with Mockito annotations for given testClass: &amp;064;{@link org.mockito.Mock}, &amp;064;{@link Spy}, &amp;064;{@link Captor}, &amp;064;{@link InjectMocks} &lt;p&gt; See examples in javadoc for {@link MockitoAnnotations} class. @deprecated Use {@link MockitoAnnotationsopenMocks(Object)} instead. This method is equivalent to {@code openMocks(testClass).close()}. The close method should however only be called after completed usage of {@code testClass}. If using static-mocks or custom {@link org.mockito.plugins.MockMaker}s, using this method might cause misbehavior of mocks injected into the test class." />
+      <item value="preview Service Invoice Mix Info Test" />
+      <item value="Matches any object of given type, excluding nulls. &lt;p&gt; This matcher will perform a type check with the given type, thus excluding values. See examples in javadoc for {@link ArgumentMatchers} class. This is an alias of: {@link isA(Class)}} &lt;p&gt; &lt;p&gt; Since Mockito 2.1.0, only allow non-null instance of &lt;code&gt;&lt;code&gt;, thus &lt;code&gt;null&lt;code&gt; is not anymore a valid value. As reference are nullable, the suggested API to &lt;strong&gt;match&lt;strong&gt; &lt;code&gt;null&lt;code&gt; would be {@link isNull()}. We felt this change would make test harnesses much safer than they were with Mockito 1.x. &lt;p&gt; &lt;p&gt;&lt;strong&gt;Notes : &lt;strong&gt;&lt;br&gt; &lt;ul&gt; &lt;li&gt;For primitive types use {@link anyChar()} family.&lt;li&gt; &lt;li&gt;Since Mockito 2.1.0 this method will perform a type check thus &lt;code&gt;null&lt;code&gt; values are not authorized.&lt;li&gt; &lt;li&gt;Since mockito 2.1.0 {@link any()} and {@link anyObject()} are not anymore aliases of this method.&lt;li&gt; &lt;ul&gt; &lt;p&gt; @param &lt;T&gt; The accepted type @param type the class of the accepted type. @return &lt;code&gt;null&lt;code&gt;. @see any() @see anyObject() @see anyVararg() @see isA(Class) @see notNull() @see notNull(Class) @see isNull() @see isNull(Class)" />
+      <item value="auto Replace Tnt Inst Id And Key Value Ignore Case List" />
+      <item value="mock Get Output Invoice Switch Domain Name List" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ALBANIAN" value="1" />
+        <entry key="CHINESE" value="142" />
+        <entry key="DANISH" value="1" />
+        <entry key="ENGLISH" value="143" />
+        <entry key="HAITIAN_CREOLE" value="3" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="LATIN" value="3" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="SPANISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>

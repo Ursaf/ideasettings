@@ -1,0 +1,154 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AnalysisProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+        <list size="0" />
+      </component>
+      <component name="EasyCodeTableSetting">
+        <option name="tableInfoMap">
+          <map>
+            <entry key="cms_02.t_article">
+              <value>
+                <TableInfoDTO>
+                  <option name="fullColumn">
+                    <list>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="id" />
+                        <option name="type" value="java.lang.Long" />
+                      </ColumnInfoDTO>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="title" />
+                        <option name="type" value="java.lang.String" />
+                      </ColumnInfoDTO>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="url" />
+                        <option name="type" value="java.lang.String" />
+                      </ColumnInfoDTO>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="typeid" />
+                        <option name="type" value="java.lang.Long" />
+                      </ColumnInfoDTO>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="clickcount" />
+                        <option name="type" value="java.lang.Integer" />
+                      </ColumnInfoDTO>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="content" />
+                        <option name="type" value="java.lang.String" />
+                      </ColumnInfoDTO>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="enable" />
+                        <option name="type" value="java.lang.Byte" />
+                      </ColumnInfoDTO>
+                      <ColumnInfoDTO>
+                        <option name="custom" value="false" />
+                        <option name="ext">
+                          <map />
+                        </option>
+                        <option name="name" value="createdate" />
+                        <option name="type" value="java.util.Date" />
+                      </ColumnInfoDTO>
+                    </list>
+                  </option>
+                  <option name="name" value="TArticle" />
+                  <option name="preName" value="" />
+                  <option name="saveModelName" value="" />
+                  <option name="savePackageName" value="" />
+                  <option name="savePath" value="" />
+                  <option name="templateGroupName" value="" />
+                </TableInfoDTO>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="D:/Softwares/apache-maven-3.6.3" />
+            <option name="useMavenConfig" value="true" />
+            <option name="userSettingsFile" value="D:\Softwares\apache-maven-3.6.3\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="1.8" />
+        <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="abbreviatePackageNames" value="true" />
+        <option name="autoscrollToSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showVisibilityIcons" value="true" />
+        <option name="sortByType" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="项目" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+      </component>
+      <component name="SuppressionsComponent">
+        <option name="suppComments" value="[]" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI" />
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI" />
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

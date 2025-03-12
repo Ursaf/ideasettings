@@ -1,0 +1,104 @@
+<application>
+  <component name="LinkIDEPluginSettings">
+    <option name="aesMode" value="true" />
+    <option name="antRegulationCheck" value="false" />
+    <option name="codeGateTaskIdentify">
+      <map>
+        <entry key="ONE_KEY_SCAN_gfinvoice_632ae058811d260df512b5ba">
+          <value>
+            <CodeGateTaskIdentify>
+              <option name="branchName" value="EIA100184427_20230207_ywx" />
+              <option name="currentCommitId" value="195168edc1dc5d6e38a9964cd9c37c027436d52f" />
+              <option name="currentDate" value="1677482376129" />
+              <option name="taskType" value="ONE_KEY_SCAN" />
+            </CodeGateTaskIdentify>
+          </value>
+        </entry>
+        <entry key="ONE_KEY_SCAN_gfinvoiceprod_master">
+          <value>
+            <CodeGateTaskIdentify>
+              <option name="branchName" value="EIA10204845_20221219_ywx_back" />
+              <option name="currentCommitId" value="46b25611377ea0edf9d67c7eb528a58c553e4b3c" />
+              <option name="currentDate" value="1675062366192" />
+              <option name="taskType" value="ONE_KEY_SCAN" />
+            </CodeGateTaskIdentify>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="currentIteration">
+      <Iteration>
+        <option name="appProfiles">
+          <list>
+            <AppProfile>
+              <option name="env">
+                <Env>
+                  <option name="branch" value="EI62525829_20220921" />
+                  <option name="id" value="632ae058811d260df512b5b5" />
+                  <option name="instanceIdMaps">
+                    <list>
+                      <HashMap />
+                      <HashMap />
+                      <HashMap />
+                      <HashMap />
+                      <HashMap />
+                      <HashMap />
+                    </list>
+                  </option>
+                  <option name="name" value="开发阶段" />
+                  <option name="pipelineInstanceId" value="54879377" />
+                </Env>
+              </option>
+              <option name="externalId" value="EI62525829" />
+              <option name="gitRepo" value="http://gitlab.alipay-inc.com/common_release/gfinvoice" />
+              <option name="gitSshRepo" value="git@gitlab.alipay-inc.com:common_release/gfinvoice.git" />
+              <option name="id" value="5f992a3fde5113070691f92d" />
+              <option name="iterationId" value="632ae058811d260df512b5ba" />
+              <option name="iterationName" value="gfinvoice覆盖率测试" />
+              <option name="name" value="gfinvoice" />
+              <option name="scmName" value="gfinvoice" />
+            </AppProfile>
+          </list>
+        </option>
+        <option name="id" value="632ae058811d260df512b5ba" />
+        <option name="name" value="gfinvoice覆盖率测试" />
+        <option name="type" value="FAST" />
+      </Iteration>
+    </option>
+    <option name="gitAccount" value="ywx01596676" />
+    <option name="linkeAlipayEnv">
+      <LinkeEnv>
+        <option name="active" value="true" />
+        <option name="linkeUser">
+          <User>
+            <option name="account" value="ywx01596676" />
+            <option name="department" value="蚂蚁集团-CTO线-数据与平台技术事业群-数字化管理技术部-数字财务技术部-智能结算&amp;amp;税票技术部-税票技术组" />
+            <option name="email" value="ywx01596676@antgroup.com" />
+            <option name="externUid" value="WB01596676" />
+            <option name="id" value="110600176" />
+            <option name="linkeId" value="63845bfe7b06970ddb73d68a" />
+            <option name="name" value="袁问熙" />
+            <option name="privateToken" value="6A46Lv_bTdCqb7s-RbIV" />
+            <option name="username" value="ywx01596676" />
+          </User>
+        </option>
+      </LinkeEnv>
+    </option>
+    <option name="linkeTenant">
+      <Tenant>
+        <option name="externalId" value="1" />
+        <option name="id" value="58f087777226375fc95d7a1e" />
+        <option name="name" value="主站" />
+        <option name="path" value="alipay" />
+      </Tenant>
+    </option>
+    <option name="statMode" value="true" />
+    <option name="stcScanCheck" value="false" />
+    <option name="userFeature">
+      <GetUserFeatureResponseAllOfData>
+        <option name="antIntelligence" value="true" />
+        <option name="cliff" value="true" />
+      </GetUserFeatureResponseAllOfData>
+    </option>
+  </component>
+</application>

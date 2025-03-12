@@ -1,0 +1,86 @@
+<application>
+  <component name="easyJavadoc">
+    <option name="accessKeyId" value="" />
+    <option name="accessKeySecret" value="" />
+    <option name="appId" value="" />
+    <option name="author" value="yuanwenxi" />
+    <option name="genAllClass" value="false" />
+    <option name="genAllField" value="true" />
+    <option name="genAllInnerClass" value="false" />
+    <option name="genAllMethod" value="false" />
+    <option name="googleKey" value="" />
+    <option name="kdocAuthor" value="yuanwenxi" />
+    <option name="kdocSimpleFieldDoc" value="true" />
+    <option name="microsoftKey" value="" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="gfcenter" />
+        <entry key="gfinvoice" />
+        <entry key="gfsettleprod" />
+        <entry key="helloword">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="study_practice" />
+      </map>
+    </option>
+    <option name="secretId" value="" />
+    <option name="secretKey" value="" />
+    <option name="simpleFieldDoc" value="true" />
+    <option name="token" value="" />
+    <option name="wordMap">
+      <map>
+        <entry key="accept" value="受理" />
+        <entry key="amount" value="金额" />
+        <entry key="amt" value="金额" />
+        <entry key="applyinvoiceinfoorders" value="开票单据信息聚合" />
+        <entry key="arinvoicereceiptapplycontext" value="销项票渲染上下文" />
+        <entry key="arrangementno" value="合约号" />
+        <entry key="build" value="构造" />
+        <entry key="certify" value="勾选" />
+        <entry key="check" value="校验" />
+        <entry key="client" value="服务客户端" />
+        <entry key="code" value="编码" />
+        <entry key="component" value="组件" />
+        <entry key="context" value="上下文" />
+        <entry key="detail" value="明细" />
+        <entry key="dtl" value="明细" />
+        <entry key="dto" value="DTO" />
+        <entry key="gen" value="构造" />
+        <entry key="gfinvoicedrmconfigure" value="DRM配置" />
+        <entry key="idemponent" value="幂等" />
+        <entry key="impl" value="实现类" />
+        <entry key="inf" value="信息" />
+        <entry key="info" value="信息" />
+        <entry key="input" value="AP" />
+        <entry key="instid" value="OU" />
+        <entry key="invoiceapply" value="开票申请" />
+        <entry key="iproleid" value="角色pid" />
+        <entry key="is" value="是否" />
+        <entry key="mail" value="邮寄" />
+        <entry key="map" value="Map" />
+        <entry key="operator" value="操作人" />
+        <entry key="order" value="order" />
+        <entry key="orderway" value="申请方式" />
+        <entry key="output" value="AR" />
+        <entry key="outputinvoiceapply" value="销项票开票申请" />
+        <entry key="pre" value="预" />
+        <entry key="process" value="处理" />
+        <entry key="proform" value="形式" />
+        <entry key="rcpt" value="可开票单据" />
+        <entry key="receipt" value="可开票单据" />
+        <entry key="relate" value="关联" />
+        <entry key="relatedtl" value="关联明细" />
+        <entry key="relationdtl" value="关联明细" />
+        <entry key="render" value="渲染" />
+        <entry key="repository" value="仓储层" />
+        <entry key="tntinstid" value="租户" />
+        <entry key="unifyseqno" value="统一序列" />
+        <entry key="vo" value="VO" />
+      </map>
+    </option>
+    <option name="youdaoAppKey" value="" />
+    <option name="youdaoAppSecret" value="" />
+  </component>
+</application>
